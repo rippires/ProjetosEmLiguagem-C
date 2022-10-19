@@ -15,7 +15,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
 
   int boia1 = digitalRead(Boia1);
   int boia2 = digitalRead(Boia2);
